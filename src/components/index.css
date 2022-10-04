@@ -1,0 +1,7 @@
+
+.list-group-flush {   
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 20px;
+    padding: 0px;
+  
+}
